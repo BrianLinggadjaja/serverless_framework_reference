@@ -1,5 +1,7 @@
 ![Serverless Logo](https://repository-images.githubusercontent.com/359726922/81716200-a171-11eb-875a-687f99b7b740)
 
+**Original Documentation**: https://www.serverless.com/framework/docs/
+
 # Context
 
 **Documentation**: [https://www.serverless.com/framework/docs/](https://www.serverless.com/framework/docs/)
